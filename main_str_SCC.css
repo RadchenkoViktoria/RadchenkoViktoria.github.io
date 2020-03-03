@@ -227,6 +227,12 @@ body{
     color: white;
     text-align: center ;
 }
+.footer_copy{
+    position: absolute;
+    left: 45%;
+    top: 60%;
+    color: white;
+}
 .footer_mail{
     position: absolute;
     top:  60% ;
